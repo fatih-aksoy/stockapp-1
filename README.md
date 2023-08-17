@@ -1,5 +1,3 @@
-# Stock App
-
 <h1>Stock App</h1>
 
 ## DEMO
